@@ -1,0 +1,30 @@
+{
+  "items": [
+    "RNStudyNotes",
+    "GitHubPopular",
+    "TakePhoto",
+    "react-native-awesome",
+    "GroupListView",
+    "react-native-check-box",
+    "react-native-easy-toast",
+    "PUtils",
+    "IncrementalUpdate",
+    "BreakPointUploadUtil"
+  ],
+
+  "info": {
+    "html_url": "https://github.com/crazycodeboy/",
+    "url": "https://api.github.com/repos/crazycodeboy/",
+    "currentRepoUrl": "https://api.github.com/repos/crazycodeboy/GitHubPopular"
+  },
+
+  "author": {
+    "name": "华宽通科技股份",
+    "description": "专注智慧城市",
+    "avatar": "http://avatar.csdn.net/1/1/E/1_fengyuzhengfan.jpg",
+    "backgroundImg": "http://app.hktfi.com/upload/pic/2017/05/201705181006310ab383e7da6d2.jpg",
+    "avatar1": "http://www.devio.org/io/GitHubPopular/img/ic_app.png",
+    "backgroundImg1": "http://www.rui2.net/uploadfile/output/2015/0322/44b845bf8ae757a2.jpg",
+    "url": "http://m.hktchn.com/"
+  }
+}
